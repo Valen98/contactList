@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ContactList_dwahlandt23</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="default_web_client_id">603321158126-bvmcq9q1njq2kcadald5vhtl2imppdah.apps.googleusercontent.com</string>
+</resources>
